@@ -1,29 +1,26 @@
-# **A Data-Driven Approach to Fund Allocation for HELP International NGO** 🌍📊
+# **A Data-Driven Approach to Fund Allocation** 🌍📊  
 
 ## **Introduction**  
 
-HELP International is a **humanitarian NGO** dedicated to **fighting poverty** and providing **basic necessities** to people in underdeveloped countries, especially during disasters. The organization has raised **$10 million** and needs a **strategic plan** to **allocate these funds effectively**.
-
-This project **categorizes countries** based on **socio-economic and health factors** to determine **which countries need the most aid**. Using **clustering techniques**, we help the NGO make **data-driven funding decisions** to maximize impact.
+This project explores how **clustering techniques** can be used to **categorize countries** based on **socio-economic and health factors**. The goal is to identify **countries in greater need** using machine learning, demonstrating how data-driven decision-making can improve **fund allocation strategies**.  
 
 ---
 
 ## **Objective** 🎯  
 
-The aim of this project is to:  
 ✔ **Cluster countries** based on socio-economic and health indicators.  
-✔ **Identify the most underdeveloped countries** that require urgent aid.  
-✔ **Support the CEO’s decision-making** for strategic fund allocation.  
+✔ **Analyze key factors** affecting development.  
+✔ **Demonstrate how machine learning can assist in resource distribution.**  
 
 ---
 
 ## **Methodology** 🔬  
 
-1. **Data Collection** – Gathered socio-economic and health data of various countries.  
+1. **Data Collection** – Gathered socio-economic and health data.  
 2. **Data Preprocessing** – Cleaned, normalized, and handled missing values.  
-3. **Feature Selection** – Identified critical indicators of development.  
+3. **Feature Selection** – Identified key indicators of development.  
 4. **Clustering Algorithm** – Applied **K-Means Clustering** to group countries.  
-5. **Analysis & Insights** – Determined which countries require the most aid.  
+5. **Analysis & Insights** – Evaluated results to understand patterns in the data.  
 
 ---
 
